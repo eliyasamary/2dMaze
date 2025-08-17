@@ -4,23 +4,6 @@
 It allows users to create, save, load, and solve 2D mazes through a simple text-based interface.  
 The project demonstrates OOP principles such as **encapsulation, inheritance, polymorphism, and design patterns (MVC & Observer)**.
 
-## Table of Contents
-
-- [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Installation & Build](#installation--build)  
-- [Usage](#usage)  
-  - [Generating a Maze](#generating-a-maze)  
-  - [Saving & Loading](#saving--loading)  
-  - [Solving the Maze](#solving-the-maze)  
-- [Design & Architecture](#design--architecture)  
-  - [Core Components](#core-components)  
-  - [Algorithms](#algorithms)  
-  - [CLI Design](#cli-design)  
-- [Extending the Project](#extending-the-project)  
-- [License & Disclaimer](#license--disclaimer)  
-
 ---
 
 ## Features
